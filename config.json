@@ -20,5 +20,56 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "텔레컨벤션센터": {
+      "style": "concrete",
+      "wall": "#c4c4c2",
+      "glass": "#4a5258",
+      "frame": "#9f9688"
+    },
+    "호연관": {
+      "style": "stone",
+      "wall": "#eeeeec",
+      "glass": "#30302c",
+      "frame": "#9a9ea4"
+    },
+    "진리관": {
+      "style": "ribbon",
+      "wall": "#e4e4e0",
+      "glass": "#3f7f86",
+      "frame": "#b7bdc2"
+    },
+    "경기대학교 중앙도서관": {
+      "style": "brick",
+      "wall": "#b47a68",
+      "glass": "#3e4448",
+      "frame": "#ece6dc"
+    },
+    "예지관": {
+      "style": "ribbon",
+      "wall": "#e6e4dc",
+      "glass": "#3e5468",
+      "frame": "#c5c3b6"
+    },
+    "교수연구동": {
+      "style": "glass",
+      "wall": "#c4cac8",
+      "glass": "#4f6a74",
+      "frame": "#80837f"
+    },
+    "종합강의동": {
+      "style": "glass",
+      "wall": "#d8d8d2",
+      "glass": "#3c6e70",
+      "frame": "#9aa4a2"
+    },
+    "성신관": {
+      "style": "ribbon",
+      "wall": "#ecebe4",
+      "glass": "#4a5452",
+      "frame": "#c8c6b8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
